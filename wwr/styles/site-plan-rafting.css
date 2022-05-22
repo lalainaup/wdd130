@@ -5,11 +5,6 @@ Fonts are separated by a | */
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rock+Salt&display=swap');
 :root {
   
-  /* change the values below to your colors from your palette */
-  --primary-color: #92DCE5   ;
-  --secondary-color: #7C7C7C ;
-  --accent1-color: #EEE5E9;
-  --accent2-color: white;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Rock Salt";
